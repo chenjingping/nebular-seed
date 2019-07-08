@@ -8,7 +8,7 @@ Could be useful as a starting point for creating https://stackblitz.com examples
 
 - [Nebular](https://github.com/akveo/nebular)
 - [Angular](https://github.com/angular/angular)
-- [Nebular Stackblitz template](https://stackblitz.com/github/akveo/nebular-seed)
+- [Nebular Stackblitz template](https://stackblitz.com/github/chenjingping/nebular-seed)
 
 
 
